@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [horvatovmiroslav.me](https://horvatovmiroslav.me)
 
-- 📫 How to reach me **contact@horvatovmiroslav.me**
+- 📫 How to reach me **miroslav@four-angles.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/miroslav-horvatov-a85897192/](https://www.linkedin.com/in/miroslav-horvatov-a85897192/)
 
