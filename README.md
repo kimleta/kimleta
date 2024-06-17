@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miroslav Horvatov</h1>
 <h3 align="center">A passionate web developer from Serbia</h3>
 
-
-- 🌱 I’m currently learning **Laravel, Symfony**
-
-- 👨‍💻 All of my projects are available at [horvatovmiroslav.me](https://horvatovmiroslav.me)
+- 👨‍💻 See my website [horvatovmiroslav.me](https://horvatovmiroslav.me)
 
 - 📫 How to reach me **miroslav@four-angles.com**
 
