@@ -16,5 +16,5 @@
 
 <h3 align="left">My Contao Extensions:</h3>
 <p align="left">
-  <a target="blank">https://github.com/4-angles/contao-google-calendar-sync</a>
+  <a href="https://github.com/4-angles/contao-google-calendar-sync" target="blank">https://github.com/4-angles/contao-google-calendar-sync</a>
 </p>
